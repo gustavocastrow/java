@@ -20,6 +20,8 @@ public class Main {
 		area = (b + B) / 2.0 * h;
 		
 		System.out.println(area);
+		
+		
 
 	}
 
